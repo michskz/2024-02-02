@@ -1,0 +1,12 @@
+img{
+    width: 400px;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/great-hall-room-hogwarts-57xkwb69xoa3h93n.jpg);
+    background-position: 90% ; /esto determina que tan a la izquierda comenzará/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+}
