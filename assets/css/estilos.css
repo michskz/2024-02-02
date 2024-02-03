@@ -1,12 +1,33 @@
 img{
-    width: 400px;
+    width: 550px;
 }
 body{
     background-image: url(https://wallpapers.com/images/hd/great-hall-room-hogwarts-57xkwb69xoa3h93n.jpg);
-    background-position: 90% ; /esto determina que tan a la izquierda comenzará/
-    background-repeat: no-repeat;
+    background-position: 90% ; 
+    background-repeat: no-repeat; 
     background-size: cover;
     background-attachment: fixed;
     color: white;
     text-align: center;
+}
+
+h1{
+    font-size: 150px;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+h4{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
 }
